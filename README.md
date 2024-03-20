@@ -5,15 +5,15 @@ I'm a 19-year-old developer based in Morocco, and I'm passionate about crafting 
 
 
 # 📦 Toolbox
-<strong>Frontend Development:</strong><code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>Bootstrap</code>
+<strong>Frontend Development: </strong> <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>Bootstrap</code>
 
-<strong>Version Control:</strong><code>Git</code> <code>Gitlab</code>
+<strong>Version Control:</strong> <code>Git</code> <code>Gitlab</code>
 
-<strong>Backend Development:</strong><code>PHP</code>
+<strong>Backend Development:</strong> <code>PHP</code>
 
 <strong>Testing:</strong>
 
-<strong>Others:</strong><code>Python</code>
+<strong>Others:</strong> <code>Python</code>
 
 
 # ✨ Fun Facts
