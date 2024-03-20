@@ -5,14 +5,14 @@ I'm a 19-year-old developer based in Morocco, and I'm passionate about crafting 
 
 # 📦 Toolbox
 ________________________________________________________________________________
-frontend Development:
+<strong>frontend Development:</strong>
 
-Version Control:
+<strong>Version Control:</strong><code>Git</code> <code>Git</code>
 
-Backend Development:
+<strong>Backend Development:</strong>
 
-Testing:
+<strong>Testing:</strong>
 
-Others:
+<strong>Others:</strong>
 
 
