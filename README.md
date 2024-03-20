@@ -18,8 +18,8 @@ I'm a 19-year-old developer based in Morocco, and I'm passionate about crafting 
 
 # ✨ Fun Facts
 <ul>
-  <li>The walking Dead is my favorite TV-Show.</li>
-  <li>I love using linux after switching from Linux.</li>
+  <li>The Walking Dead is my favorite TV-Show.</li>
+  <li>I love using Linux after switching from Windows.</li>
 </ul>
 
 
