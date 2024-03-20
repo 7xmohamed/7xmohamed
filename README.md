@@ -1,5 +1,5 @@
 #  About Me:
-I'm a passionate programmer and tech enthusiast with a love for turning ideas into reality through code. My journey in the world of programming has been an exciting adventure, and I'm constantly eager to explore new technologies and expand my skill set.
+I'm a 19-year-old developer based in Morocco, and I'm passionate about crafting digital experiences.
 
 
 ##  Socials:
