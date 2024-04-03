@@ -1,5 +1,5 @@
-#  Hey, I'm Mohamed
-I'm a 19-year-old developer based in Morocco, and I'm passionate about crafting digital experiences.
+#  Hey, I'm 7xmohamed
+I'm a 20-year-old developer based in Morocco, and I'm passionate about crafting digital experiences.
 
 • Check out <a href="https://github.com/7xmohamed/vscode-settings">VSCode Configuration</a> for development optimization.
 
