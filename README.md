@@ -11,6 +11,8 @@ I'm a 20-year-old developer based in Morocco, and I'm passionate about crafting 
 
 <strong>Backend Development:</strong> <code>PHP</code>
 
+<strong>Testing: <code>Cypress</code></strong>
+
 <strong>Others:</strong> <code>Python</code>
 
 
