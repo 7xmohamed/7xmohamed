@@ -2,10 +2,12 @@
 I'm a 20-year-old developer based in Morocco, and I'm passionate about crafting digital experiences.
 
 • Check out <a href="https://github.com/7xmohamed/vscode-settings">VSCode Configuration</a> for development optimization.
+• For a quick reponse, DM me on <a href="www.linkedin.com/in/7xmohamed">LinkedIn</a>
+
 
 
 # 📦 Toolbox
-<strong>Frontend Development: </strong> <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>Bootstrap</code>
+<strong>Frontend Development: </strong> <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>Bootstrap</code> <code>Typescript</code>
 
 <strong>Version Control:</strong> <code>Git</code> <code>Gitlab</code>
 
@@ -14,8 +16,3 @@ I'm a 20-year-old developer based in Morocco, and I'm passionate about crafting 
 <strong>Testing: <code>Cypress</code></strong>
 
 <strong>Others:</strong> <code>Python</code>
-
-
-# 📫 Contact
-
-For a quick reponse, DM me on <a href="www.linkedin.com/in/7xmohamed">LinkedIn</a>
