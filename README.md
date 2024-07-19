@@ -16,13 +16,6 @@ I'm a 20-year-old developer based in Morocco, and I'm passionate about crafting 
 <strong>Others:</strong> <code>Python</code>
 
 
-# ✨ Fun Facts
-<ul>
-  <li>The Walking Dead is my favorite TV-Show.</li>
-  <li>I love using Linux after switching from Windows.</li>
-</ul>
-
-
 # 📫 Contact
 
 For a quick reponse, DM me on <a href="www.linkedin.com/in/7xmohamed">LinkedIn</a>
