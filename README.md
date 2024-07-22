@@ -13,7 +13,7 @@
 
 
 # 📦 Toolbox
-<strong>Frontend Development: </strong> <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>Bootstrap</code> <code>Typescript</code>
+<strong>Frontend Development: </strong> <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>Bootstrap</code> <code>Typescript</code> <code>React.js</code>
 
 <strong>Version Control:</strong> <code>Git</code> <code>Gitlab</code>
 
