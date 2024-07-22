@@ -19,6 +19,4 @@
 
 <strong>Backend Development:</strong> <code>PHP</code>
 
-<strong>Testing: <code>Cypress</code></strong>
-
 <strong>Others:</strong> <code>Python</code>
