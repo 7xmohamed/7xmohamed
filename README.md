@@ -7,7 +7,7 @@
 
 <ul>
   <li>Check out <a href="https://github.com/7xmohamed/vscode-settings">VSCode Configuration</a> for development optimization.</li>
-  <li>For a quick reponse, DM me on <a href="www.linkedin.com/in/7xmohamed">LinkedIn</a></li>
+  <li>For a quick reponse, DM me on <a href="[www.linkedin.com/in/7xmohamed](https://www.linkedin.com/in/7xmohamed)">LinkedIn</a></li>
 </ul>
 
 
